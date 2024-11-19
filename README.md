@@ -5,14 +5,15 @@
 ### CLI
 
 ```bash
-mkdir -p TIL/{Data_Engineering/{Data_Processing,Data_Pipelines,Tools},Data_Security/{Encryption,Access_Control,Compliance,Incident_Response},Backend_Development/{Java,Spring,Databases,APIs},CS_Basics/{Algorithms,Data_Structures,Operating_Systems,Networking}}
+mkdir -p TIL/{Data_Engineering/{Data_Streamming, Data_Batch,Data_Pipelines,Tools},Data_Security/{Encryption,Access_Control,Compliance,Incident_Response},Backend_Development/{Java,Spring,Databases,APIs},CS_Basics/{Algorithms,Data_Structures,Operating_Systems,Networking}}
 ```
 
 ### 폴더 구조
 
 - `Data_Engineering`
-  - `Data_Processing`: 데이터 처리에 대한 내용.
   - `Data_Pipelines`: 데이터 파이프라인 구축 및 관리에 대한 내용.
+  - `Data_Streamming`: 실시간 처리에 대한 내용.
+  - `Data_Batch`: 배치 처리에 대한 내용.
   - `Tools`: 데이터 엔지니어링에 사용되는 도구 및 기술에 대한 내용.
 - `Data_Security`
   - `Encryption`: 암호화 기술 및 방법론.
