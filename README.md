@@ -5,7 +5,7 @@
 ### CLI
 
 ```bash
-mkdir -p TIL/{Data_Engineering/{Data_Streamming, Data_Batch,Data_Pipelines,Tools},Data_Security/{Encryption,Access_Control,Compliance,Incident_Response},Backend_Development/{Java,Spring,Databases,APIs},CS_Basics/{Algorithms,Data_Structures,Operating_Systems,Networking}}
+mkdir -p ./{Data_Engineering/{Data_Streamming, Data_Batch,Data_Pipelines,Tools},Data_Security/{Encryption,Access_Control,Compliance,Incident_Response},Backend_Development/{Java,Spring,Databases,APIs},CS_Basics/{Algorithms,Data_Structures,Operating_Systems,Networking}}
 ```
 
 ### 폴더 구조

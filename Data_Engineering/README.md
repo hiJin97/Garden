@@ -10,4 +10,8 @@
 
 ### 문서 TOC
 
+#### 데이터 파이프라인
 - [데이터 파이프라인이 필요한 이유?](./Data_Pipelines/necessity-data-pipeline.md)
+
+#### 실시간 데이터
+- [실시간 데이터의 중요성](./Data_Streamming/importance-data-streamming.md)
