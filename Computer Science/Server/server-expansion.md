@@ -1,4 +1,7 @@
 # Scale Up VS Scale Out
+
+> Backlink: [CS Home](/Computer%20Science/README.md)
+
 ![](/asset/cs-server-1.png)
 - Scale up
 	- 개념: 서버 한 대의 성능을 개선하거나, 하드웨어를 업그레이드

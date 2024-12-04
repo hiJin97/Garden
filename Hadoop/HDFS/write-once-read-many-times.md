@@ -1,5 +1,6 @@
 # HDFS와 WORM
-
+> Backlink: [HDFS Home](/Hadoop/HDFS/README.md)
+ 
 ![alt text](/asset/worm.png)
 
 ## **WORM(Write Once, Read Many Times)**
